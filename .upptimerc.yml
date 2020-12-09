@@ -8,8 +8,6 @@ sites:
     url: https://mederic.me
   - name: Mederic Portfolio
     url: https://medericburlet.com
-  - name: HKasai
-    url: https://火.dev/
   - name: Kasai Normal
     url: https://xn--vnx.dev
   - name: Celestis Blog
@@ -21,7 +19,7 @@ status-website:
   # Uncomment the following line if you don't have a custom domain and add your repo name
   baseUrl: /website-status
   logoUrl: https://avatars2.githubusercontent.com/u/67188422?s=200&v=4
-  name: Mederic's Status
+  name: Mederic Status
   introTitle: "You can track the status of all my current projects."
   #introMessage: This is a sample status page which uses **real-time** data from our [Github repository](https://github.com/koj-co/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/koj-co/upptime)
   navbar:
