@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/mederic.me",
     "slug": "mederic-photography",
     "status": "down",
-    "uptime": "98.03%",
-    "uptimeDay": "43.21%",
-    "uptimeWeek": "91.89%",
-    "uptimeMonth": "98.03%",
-    "uptimeYear": "98.03%",
+    "uptime": "97.82%",
+    "uptimeDay": "37.11%",
+    "uptimeWeek": "91.02%",
+    "uptimeMonth": "97.82%",
+    "uptimeYear": "97.82%",
     "time": 1482,
     "timeDay": 1300,
     "timeWeek": 1487,
     "timeMonth": 1482,
     "timeYear": 1482,
     "dailyMinutesDown": {
-      "2021-01-07": 818
+      "2021-01-07": 906
     }
   },
   {
@@ -24,9 +24,9 @@
     "url": "https://medericburlet.com",
     "icon": "https://favicons.githubusercontent.com/medericburlet.com",
     "slug": "mederic-portfolio",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "97.62%",
+    "uptimeDay": "97.61%",
     "uptimeWeek": "99.66%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.92%",
