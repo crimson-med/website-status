@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/mederic.me",
     "slug": "mederic-photography",
     "status": "up",
-    "uptime": "98.26%",
+    "uptime": "98.29%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.26%",
-    "time": 1427,
-    "timeDay": 1180,
-    "timeWeek": 1191,
-    "timeMonth": 1380,
-    "timeYear": 1427,
+    "uptimeYear": "98.29%",
+    "time": 1423,
+    "timeDay": 1161,
+    "timeWeek": 1182,
+    "timeMonth": 1366,
+    "timeYear": 1423,
     "dailyMinutesDown": {
       "2021-01-08": 180,
       "2021-01-07": 1427
@@ -31,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
-    "time": 1337,
-    "timeDay": 1276,
-    "timeWeek": 1283,
-    "timeMonth": 1293,
-    "timeYear": 1337,
+    "time": 1335,
+    "timeDay": 1221,
+    "timeWeek": 1267,
+    "timeMonth": 1290,
+    "timeYear": 1335,
     "dailyMinutesDown": {
       "2021-01-07": 64
     }
@@ -51,11 +51,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 970,
-    "timeDay": 941,
-    "timeWeek": 979,
-    "timeMonth": 994,
-    "timeYear": 970,
+    "time": 969,
+    "timeDay": 933,
+    "timeWeek": 961,
+    "timeMonth": 992,
+    "timeYear": 969,
     "dailyMinutesDown": {}
   },
   {
@@ -71,7 +71,7 @@
     "uptimeYear": "100.00%",
     "time": 212,
     "timeDay": 217,
-    "timeWeek": 213,
+    "timeWeek": 212,
     "timeMonth": 217,
     "timeYear": 212,
     "dailyMinutesDown": {}
@@ -87,11 +87,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 484,
-    "timeDay": 319,
-    "timeWeek": 384,
-    "timeMonth": 513,
-    "timeYear": 484,
+    "time": 481,
+    "timeDay": 274,
+    "timeWeek": 338,
+    "timeMonth": 508,
+    "timeYear": 481,
     "dailyMinutesDown": {}
   }
 ]
