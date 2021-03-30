@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/mederic.me",
     "slug": "mederic-photography",
     "status": "up",
-    "uptime": "98.98%",
+    "uptime": "98.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.98%",
-    "time": 1321,
-    "timeDay": 1163,
-    "timeWeek": 1137,
-    "timeMonth": 1156,
-    "timeYear": 1321,
+    "uptimeYear": "98.99%",
+    "time": 1319,
+    "timeDay": 1076,
+    "timeWeek": 1141,
+    "timeMonth": 1154,
+    "timeYear": 1319,
     "dailyMinutesDown": {
       "2021-01-08": 180,
       "2021-01-07": 1427
@@ -32,9 +32,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 1310,
-    "timeDay": 1262,
-    "timeWeek": 1264,
-    "timeMonth": 1264,
+    "timeDay": 1383,
+    "timeWeek": 1288,
+    "timeMonth": 1268,
     "timeYear": 1310,
     "dailyMinutesDown": {
       "2021-01-07": 64
@@ -46,17 +46,20 @@
     "icon": "https://favicons.githubusercontent.com/xn--vnx.dev",
     "slug": "kasai",
     "status": "up",
-    "uptime": "100.00%",
+    "uptime": "98.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeYear": "98.95%",
     "time": 969,
-    "timeDay": 1058,
-    "timeWeek": 963,
-    "timeMonth": 957,
+    "timeDay": 914,
+    "timeWeek": 972,
+    "timeMonth": 955,
     "timeYear": 969,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-01-07": 1491,
+      "2021-01-08": 180
+    }
   },
   {
     "name": "Kasai Normal",
@@ -64,17 +67,20 @@
     "icon": "https://favicons.githubusercontent.com/xn--vnx.dev",
     "slug": "kasai-normal",
     "status": "up",
-    "uptime": "100.00%",
+    "uptime": "98.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeYear": "98.95%",
     "time": 213,
-    "timeDay": 219,
+    "timeDay": 194,
     "timeWeek": 209,
     "timeMonth": 213,
     "timeYear": 213,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-01-07": 1491,
+      "2021-01-08": 180
+    }
   },
   {
     "name": "Celestis Blog",
@@ -82,16 +88,19 @@
     "icon": "https://favicons.githubusercontent.com/www.celestis.vip",
     "slug": "celestis-blog",
     "status": "up",
-    "uptime": "100.00%",
+    "uptime": "98.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 435,
-    "timeDay": 404,
-    "timeWeek": 399,
-    "timeMonth": 392,
-    "timeYear": 435,
-    "dailyMinutesDown": {}
+    "uptimeYear": "98.95%",
+    "time": 436,
+    "timeDay": 545,
+    "timeWeek": 413,
+    "timeMonth": 398,
+    "timeYear": 436,
+    "dailyMinutesDown": {
+      "2021-01-07": 1491,
+      "2021-01-08": 180
+    }
   }
 ]
