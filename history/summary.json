@@ -81,9 +81,9 @@
     "url": "https://www.celestis.vip/",
     "icon": "https://favicons.githubusercontent.com/www.celestis.vip",
     "slug": "celestis-blog",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -92,6 +92,8 @@
     "timeWeek": 378,
     "timeMonth": 395,
     "timeYear": 427,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-04-28": 0
+    }
   }
 ]
