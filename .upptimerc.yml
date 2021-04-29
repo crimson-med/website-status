@@ -12,8 +12,6 @@ sites:
     url: https://火.dev/
   - name: Kasai Normal
     url: https://xn--vnx.dev
-  - name: Celestis Blog
-    url: https://www.celestis.vip/
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
