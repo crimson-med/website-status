@@ -48,9 +48,9 @@
     "url": "https://火.dev/",
     "icon": "https://favicons.githubusercontent.com/xn--vnx.dev",
     "slug": "kasai",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -59,16 +59,18 @@
     "timeWeek": 911,
     "timeMonth": 915,
     "timeYear": 935,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-07-16": 0
+    }
   },
   {
     "name": "Kasai Normal",
     "url": "https://xn--vnx.dev",
     "icon": "https://favicons.githubusercontent.com/xn--vnx.dev",
     "slug": "kasai-normal",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -77,6 +79,8 @@
     "timeWeek": 211,
     "timeMonth": 211,
     "timeYear": 208,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-07-16": 0
+    }
   }
 ]
